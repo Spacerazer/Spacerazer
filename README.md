@@ -1,4 +1,4 @@
-# qq all, я Spacerazer 
+# qq all, это Spacerazer 
 💻 **C#/.NET Developer** | **WPF/XAML** | **Visual Studio** | **Desktop/Enterprise Apps**  
 
 ## Мой стек технологий  
